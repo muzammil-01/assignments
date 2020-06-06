@@ -1,0 +1,33 @@
+.contact{
+    width: 150px !important;
+    margin-right: 20px;
+} 
+li a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+h5{
+font-size: small !important;
+}
+.logo{
+    filter: invert(100%) !important;
+}
+.top-hero{
+background-color: #3498db;
+}
+.copyright{
+padding: 10px;
+background-color:  #3498db;
+}
+.qualities{
+    width: 200px;
+}
+.one{
+    height: 100%;
+    width: 100%;
+}
+.pro{
+    width: 70%;
+}
